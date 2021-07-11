@@ -1,0 +1,25 @@
+int main(){
+    int a;
+    float b;
+    char c='k';
+    string d="krishna";
+    bool e;
+    e=e*5;
+    int f=f*g;
+    e=6+f;
+    for(int i=0;i<5;i=i+1){
+        a=a+1;
+    }
+    while(i<5){
+        i=i+1;
+    }
+    if(i>3){
+        f=f*2;
+    }
+    return 0;
+}
+int main(){
+    int x=2;
+    x=4;
+    return 0;
+}
